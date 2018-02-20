@@ -1,0 +1,16 @@
+body {
+	background: #303030;
+	color: #ffffff;
+}
+
+.container {
+	background-color: #424242;
+	padding: 30px 30px 0px 30px;
+	width: 400px !important;
+	border-radius: 3px;
+}
+
+#weatherIcon > i.wi {
+	font-size: 5em;
+	padding-top: 8px;
+}
